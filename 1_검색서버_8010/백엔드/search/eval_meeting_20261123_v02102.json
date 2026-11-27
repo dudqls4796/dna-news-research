@@ -1,0 +1,2024 @@
+[
+  {
+    "kind": "인물",
+    "ask": "김도영",
+    "kw": [
+      "김도영"
+    ],
+    "q": "",
+    "required_terms": [
+      "김도영"
+    ],
+    "supporting_terms": [],
+    "term_source": "legacy",
+    "from": null,
+    "to": null,
+    "pub": null,
+    "chart": 463,
+    "chart_basis": "핵심 결과 판정을 통과한 전체 기사",
+    "events": 20,
+    "related_events": 20,
+    "kw_hit_top10": 10,
+    "flags": [],
+    "top3": [
+      "'45홈런 폭발' KIA 슈퍼스타 또 상 받는다!…김도영, 한은회 최고의 선수...",
+      "“김도영 선배 맞붙고파” 이런 당찬 스무살 봤나…프로 미지명 대반전...",
+      "[공식발표] 'MVP 유력 후보' 김도영 수상 페이스 벌써 심상찮다…일구대..."
+    ],
+    "top3_match_reasons": [
+      {
+        "title": [
+          "김도영"
+        ],
+        "keywords": [],
+        "basis": ""
+      },
+      {
+        "title": [
+          "김도영"
+        ],
+        "keywords": [],
+        "basis": ""
+      },
+      {
+        "title": [
+          "김도영"
+        ],
+        "keywords": [],
+        "basis": ""
+      }
+    ],
+    "sec": 36.3,
+    "previous": {
+      "file": "eval_meeting_20261123_v02100.json",
+      "chart": 463,
+      "chart_basis": "핵심 결과 판정을 통과한 전체 기사",
+      "events": 20,
+      "related_events": 0,
+      "kw_hit_top10": 10,
+      "flags": [],
+      "top3": [
+        "'45홈런 폭발' KIA 슈퍼스타 또 상 받는다!…김도영, 한은회 최고의 선수...",
+        "“김도영 선배 맞붙고파” 이런 당찬 스무살 봤나…프로 미지명 대반전...",
+        "[공식발표] 'MVP 유력 후보' 김도영 수상 페이스 벌써 심상찮다…일구대..."
+      ]
+    }
+  },
+  {
+    "kind": "인물",
+    "ask": "손흥민 이적",
+    "kw": [
+      "손흥민"
+    ],
+    "q": "손흥민 이적",
+    "required_terms": [
+      "이적",
+      "손흥민"
+    ],
+    "supporting_terms": [],
+    "term_source": "model",
+    "from": null,
+    "to": null,
+    "pub": null,
+    "chart": 20,
+    "chart_basis": "핵심 결과 판정을 통과한 전체 기사",
+    "events": 20,
+    "related_events": 20,
+    "kw_hit_top10": 10,
+    "flags": [],
+    "top3": [
+      "미국 이적까지 했는데 손흥민의 허무한 ‘라스트댄스’ [2026 월드컵 홍명보호]",
+      "손흥민 떠난 EPL에 다시 한류 훈풍 불까...김민재 오현규 이적설",
+      "메시 손흥민 이어 그리즈만도 MLS 이적 올랜도와 2년 계약"
+    ],
+    "top3_match_reasons": [
+      {
+        "title": [
+          "이적",
+          "손흥민"
+        ],
+        "keywords": [],
+        "basis": ""
+      },
+      {
+        "title": [
+          "이적",
+          "손흥민"
+        ],
+        "keywords": [],
+        "basis": ""
+      },
+      {
+        "title": [
+          "이적",
+          "손흥민"
+        ],
+        "keywords": [],
+        "basis": ""
+      }
+    ],
+    "sec": 2.5,
+    "previous": {
+      "file": "eval_meeting_20261123_v02100.json",
+      "chart": 12,
+      "chart_basis": "핵심 결과 판정을 통과한 전체 기사",
+      "events": 20,
+      "related_events": 0,
+      "kw_hit_top10": 10,
+      "flags": [],
+      "top3": [
+        "미국 이적까지 했는데 손흥민의 허무한 ‘라스트댄스’ [2026 월드컵 홍명보호]",
+        "손흥민 떠난 EPL에 다시 한류 훈풍 불까...김민재 오현규 이적설",
+        "메시 손흥민 이어 그리즈만도 MLS 이적 올랜도와 2년 계약"
+      ]
+    }
+  },
+  {
+    "kind": "인물",
+    "ask": "한강 작가 노벨상",
+    "kw": [
+      "한강"
+    ],
+    "q": "한강 작가 노벨상",
+    "required_terms": [
+      "노벨상",
+      "한강"
+    ],
+    "supporting_terms": [
+      "작가"
+    ],
+    "term_source": "model",
+    "from": null,
+    "to": null,
+    "pub": null,
+    "chart": 37,
+    "chart_basis": "핵심 결과 판정을 통과한 전체 기사",
+    "events": 20,
+    "related_events": 20,
+    "kw_hit_top10": 10,
+    "flags": [],
+    "top3": [
+      "한강 작가, 노벨상 후 첫 공개 활동 “정치적 글쓰기와 개인적 글쓰기 나뉘지 않아”",
+      "노벨상 이후 칩거한 한강 “수상자 매년 나오니 맘가벼워져”",
+      "[광화문에서/박선희]돌아온 노벨문학상 시즌 한강은 뭐라고 말할까"
+    ],
+    "top3_match_reasons": [
+      {
+        "title": [
+          "노벨상",
+          "한강",
+          "작가"
+        ],
+        "keywords": [],
+        "basis": ""
+      },
+      {
+        "title": [
+          "노벨상",
+          "한강"
+        ],
+        "keywords": [
+          "작가"
+        ],
+        "basis": ""
+      },
+      {
+        "title": [
+          "노벨상",
+          "한강"
+        ],
+        "keywords": [
+          "작가"
+        ],
+        "basis": ""
+      }
+    ],
+    "sec": 2.5,
+    "previous": {
+      "file": "eval_meeting_20261123_v02100.json",
+      "chart": 23,
+      "chart_basis": "핵심 결과 판정을 통과한 전체 기사",
+      "events": 20,
+      "related_events": 0,
+      "kw_hit_top10": 10,
+      "flags": [],
+      "top3": [
+        "한강 작가, 노벨상 후 첫 공개 활동 “정치적 글쓰기와 개인적 글쓰기 나뉘지 않아”",
+        "한강의 책방 오늘 문 닫는다 노벨상 작가도 못 피한 젠트리피케이션",
+        "노벨상 이후 칩거한 한강 “수상자 매년 나오니 맘가벼워져”"
+      ]
+    }
+  },
+  {
+    "kind": "인물",
+    "ask": "이재명 대통령 지지율",
+    "kw": [
+      "이재명"
+    ],
+    "q": "이재명 지지율 대통령",
+    "required_terms": [
+      "이재명",
+      "지지율"
+    ],
+    "supporting_terms": [],
+    "term_source": "model",
+    "from": null,
+    "to": null,
+    "pub": null,
+    "chart": 108,
+    "chart_basis": "핵심 결과 판정을 통과한 전체 기사",
+    "events": 20,
+    "related_events": 20,
+    "kw_hit_top10": 10,
+    "flags": [],
+    "top3": [
+      "이재명 대통령 지지율 40% 회복...민주당 36%·국민의힘 28%",
+      "이재명 대통령 국정지지율 64%, 취임초 최고치 근접",
+      "이재명 대통령 지지율 37.3%…전주보다 0.9%p 상승"
+    ],
+    "top3_match_reasons": [
+      {
+        "title": [
+          "이재명",
+          "지지율"
+        ],
+        "keywords": [],
+        "basis": ""
+      },
+      {
+        "title": [
+          "이재명",
+          "지지율"
+        ],
+        "keywords": [],
+        "basis": ""
+      },
+      {
+        "title": [
+          "이재명",
+          "지지율"
+        ],
+        "keywords": [],
+        "basis": ""
+      }
+    ],
+    "sec": 3.0,
+    "previous": {
+      "file": "eval_meeting_20261123_v02100.json",
+      "chart": 69,
+      "chart_basis": "핵심 결과 판정을 통과한 전체 기사",
+      "events": 20,
+      "related_events": 0,
+      "kw_hit_top10": 10,
+      "flags": [],
+      "top3": [
+        "이재명 대통령 지지율 40% 회복...민주당 36%·국민의힘 28%",
+        "이재명 대통령 국정지지율 64%, 취임초 최고치 근접",
+        "이재명 대통령 지지율 37.3%…전주보다 0.9%p 상승"
+      ]
+    }
+  },
+  {
+    "kind": "인물",
+    "ask": "안세영 배드민턴",
+    "kw": [
+      "안세영"
+    ],
+    "q": "안세영 배드민턴",
+    "required_terms": [
+      "안세영"
+    ],
+    "supporting_terms": [
+      "배드민턴"
+    ],
+    "term_source": "model",
+    "from": null,
+    "to": null,
+    "pub": null,
+    "chart": 457,
+    "chart_basis": "핵심 결과 판정을 통과한 전체 기사",
+    "events": 20,
+    "related_events": 0,
+    "kw_hit_top10": 10,
+    "flags": [],
+    "top3": [
+      "4 19 민주평화상에 ‘배드민턴 여제’ 안세영[온라인 라운지]",
+      "안세영 배드민턴 선수 김도형 화학 교수, 포니정 영리더상 수상",
+      "\"안세영 이용대 보러 가자\" 요넥스코리아, 더현대서울에 배드민턴 코트 운영"
+    ],
+    "top3_match_reasons": [
+      {
+        "title": [
+          "안세영",
+          "배드민턴"
+        ],
+        "keywords": [],
+        "basis": ""
+      },
+      {
+        "title": [
+          "안세영",
+          "배드민턴"
+        ],
+        "keywords": [],
+        "basis": ""
+      },
+      {
+        "title": [
+          "안세영",
+          "배드민턴"
+        ],
+        "keywords": [],
+        "basis": ""
+      }
+    ],
+    "sec": 2.4,
+    "previous": {
+      "file": "eval_meeting_20261123_v02100.json",
+      "chart": 148,
+      "chart_basis": "핵심 결과 판정을 통과한 전체 기사",
+      "events": 20,
+      "related_events": 0,
+      "kw_hit_top10": 10,
+      "flags": [],
+      "top3": [
+        "현역 최강자 안세영, 배드민턴 전설의 길로 [플랫]",
+        "배드민턴 '여제' 안세영은 신기록 제조기",
+        "15점제 변화 앞둔 배드민턴 안세영은 어떻게 적응해야 할까"
+      ]
+    }
+  },
+  {
+    "kind": "기업",
+    "ask": "삼성전자 주가",
+    "kw": [
+      "삼성전자"
+    ],
+    "q": "삼성전자 주가",
+    "required_terms": [
+      "삼성전자",
+      "주가"
+    ],
+    "supporting_terms": [],
+    "term_source": "legacy",
+    "from": null,
+    "to": null,
+    "pub": null,
+    "chart": 3932,
+    "chart_basis": "핵심 결과 판정을 통과한 전체 기사",
+    "events": 20,
+    "related_events": 10,
+    "kw_hit_top10": 10,
+    "flags": [],
+    "top3": [
+      "이번주 코스피, 삼성전자 실적에 달렸다",
+      "삼성전자, 시가총액 1000조원 넘었다",
+      "국민 3명 중 1명 주식 투자 삼성전자 주주만 461만명"
+    ],
+    "top3_match_reasons": [
+      {
+        "title": [
+          "삼성전자",
+          "주가"
+        ],
+        "keywords": [],
+        "basis": ""
+      },
+      {
+        "title": [
+          "삼성전자",
+          "주가"
+        ],
+        "keywords": [],
+        "basis": ""
+      },
+      {
+        "title": [
+          "삼성전자",
+          "주가"
+        ],
+        "keywords": [],
+        "basis": ""
+      }
+    ],
+    "sec": 3.6,
+    "previous": {
+      "file": "eval_meeting_20261123_v02100.json",
+      "chart": 1083,
+      "chart_basis": "핵심 결과 판정을 통과한 전체 기사",
+      "events": 20,
+      "related_events": 0,
+      "kw_hit_top10": 10,
+      "flags": [],
+      "top3": [
+        "삼성전자, 100조 벌고도 주가는 4.7% ↓ 증권가 \"최고 63만원\"",
+        "63만원 vs 27만원 ‘대장주’ 삼성전자 주가 향방은",
+        "삼성전자 주가 상승 재계에는 어떤 기록 남겼나"
+      ]
+    }
+  },
+  {
+    "kind": "기업",
+    "ask": "SK하이닉스 실적",
+    "kw": [
+      "SK하이닉스"
+    ],
+    "q": "SK하이닉스 실적",
+    "required_terms": [
+      "SK하이닉스",
+      "실적"
+    ],
+    "supporting_terms": [],
+    "term_source": "legacy",
+    "from": null,
+    "to": null,
+    "pub": null,
+    "chart": 1713,
+    "chart_basis": "핵심 결과 판정을 통과한 전체 기사",
+    "events": 20,
+    "related_events": 1,
+    "kw_hit_top10": 10,
+    "flags": [],
+    "top3": [
+      "SK하이닉스 역대 최대 실적...1분기 매출 52.5조 영업이익 37.6조",
+      "삼성전자 SK하이닉스, 사상 최대 실적",
+      "SK하이닉스, 메모리 호황 역대급 실적"
+    ],
+    "top3_match_reasons": [
+      {
+        "title": [
+          "SK하이닉스",
+          "실적"
+        ],
+        "keywords": [],
+        "basis": ""
+      },
+      {
+        "title": [
+          "SK하이닉스",
+          "실적"
+        ],
+        "keywords": [],
+        "basis": ""
+      },
+      {
+        "title": [
+          "SK하이닉스",
+          "실적"
+        ],
+        "keywords": [],
+        "basis": ""
+      }
+    ],
+    "sec": 2.1,
+    "previous": {
+      "file": "eval_meeting_20261123_v02100.json",
+      "chart": 372,
+      "chart_basis": "핵심 결과 판정을 통과한 전체 기사",
+      "events": 20,
+      "related_events": 0,
+      "kw_hit_top10": 10,
+      "flags": [],
+      "top3": [
+        "SK하이닉스 역대 최대 실적...1분기 매출 52.5조 영업이익 37.6조",
+        "삼성전자 SK하이닉스, 사상 최대 실적",
+        "SK하이닉스, 메모리 호황 역대급 실적"
+      ]
+    }
+  },
+  {
+    "kind": "기업",
+    "ask": "현대차 미국 관세",
+    "kw": [
+      "현대차"
+    ],
+    "q": "현대차 미국 관세",
+    "required_terms": [
+      "관세",
+      "현대차"
+    ],
+    "supporting_terms": [
+      "미국"
+    ],
+    "term_source": "model",
+    "from": null,
+    "to": null,
+    "pub": null,
+    "chart": 233,
+    "chart_basis": "핵심 결과 판정을 통과한 전체 기사",
+    "events": 20,
+    "related_events": 7,
+    "kw_hit_top10": 10,
+    "flags": [],
+    "top3": [
+      "[속보] 현대차도 미국 관세 직격탄 지난해 영업익 19.5% 감소",
+      "현대차 기아, 美 관세 비용으로 7조 날려 연 매출은 300조 신기록",
+      "현대차, 美에 “중복관세 적용 말아달라”"
+    ],
+    "top3_match_reasons": [
+      {
+        "title": [
+          "관세",
+          "현대차",
+          "미국"
+        ],
+        "keywords": [],
+        "basis": ""
+      },
+      {
+        "title": [
+          "관세",
+          "현대차"
+        ],
+        "keywords": [
+          "미국"
+        ],
+        "basis": ""
+      },
+      {
+        "title": [
+          "관세",
+          "현대차"
+        ],
+        "keywords": [
+          "미국"
+        ],
+        "basis": ""
+      }
+    ],
+    "sec": 3.6,
+    "previous": {
+      "file": "eval_meeting_20261123_v02100.json",
+      "chart": 67,
+      "chart_basis": "핵심 결과 판정을 통과한 전체 기사",
+      "events": 20,
+      "related_events": 0,
+      "kw_hit_top10": 10,
+      "flags": [],
+      "top3": [
+        "[속보]현대차 “작년 美관세 비용 4.1조” 기아 합산 시 7.2조",
+        "[속보] 현대차도 미국 관세 직격탄 지난해 영업익 19.5% 감소",
+        "현대차, 美에 “중복관세 적용 말아달라”"
+      ]
+    }
+  },
+  {
+    "kind": "기업",
+    "ask": "카카오 주가",
+    "kw": [
+      "카카오"
+    ],
+    "q": "카카오 주가",
+    "required_terms": [
+      "주가",
+      "카카오"
+    ],
+    "supporting_terms": [],
+    "term_source": "model",
+    "from": null,
+    "to": null,
+    "pub": null,
+    "chart": 82,
+    "chart_basis": "핵심 결과 판정을 통과한 전체 기사",
+    "events": 20,
+    "related_events": 20,
+    "kw_hit_top10": 10,
+    "flags": [],
+    "top3": [
+      "카카오, ‘AI’와 ‘투자’로 나눈다...주가는 7.49%↓",
+      "주가는 뚝 둘로 나누는 카카오, 성장성 입증할까",
+      "“라이언, 주가도 살려줘” AI 비서 꺼낸 카카오, 52주 신저가"
+    ],
+    "top3_match_reasons": [
+      {
+        "title": [
+          "주가",
+          "카카오"
+        ],
+        "keywords": [],
+        "basis": ""
+      },
+      {
+        "title": [
+          "주가",
+          "카카오"
+        ],
+        "keywords": [],
+        "basis": ""
+      },
+      {
+        "title": [
+          "주가",
+          "카카오"
+        ],
+        "keywords": [],
+        "basis": ""
+      }
+    ],
+    "sec": 2.4,
+    "previous": {
+      "file": "eval_meeting_20261123_v02100.json",
+      "chart": 46,
+      "chart_basis": "핵심 결과 판정을 통과한 전체 기사",
+      "events": 20,
+      "related_events": 0,
+      "kw_hit_top10": 10,
+      "flags": [],
+      "top3": [
+        "카카오, ‘AI’와 ‘투자’로 나눈다...주가는 7.49%↓",
+        "주가는 뚝 둘로 나누는 카카오, 성장성 입증할까",
+        "“라이언, 주가도 살려줘” AI 비서 꺼낸 카카오, 52주 신저가"
+      ]
+    }
+  },
+  {
+    "kind": "기업",
+    "ask": "쿠팡 개인정보 유출",
+    "kw": [
+      "쿠팡"
+    ],
+    "q": "쿠팡 개인정보 유출",
+    "required_terms": [
+      "쿠팡",
+      "개인정보",
+      "유출"
+    ],
+    "supporting_terms": [],
+    "term_source": "model",
+    "from": null,
+    "to": null,
+    "pub": null,
+    "chart": 240,
+    "chart_basis": "핵심 결과 판정을 통과한 전체 기사",
+    "events": 20,
+    "related_events": 3,
+    "kw_hit_top10": 10,
+    "flags": [],
+    "top3": [
+      "쿠팡 개인정보 유출 16만 5000건 더 있었다",
+      "쿠팡 티빙 이어 또 CU 택배 개인정보 유출",
+      "쿠팡, 대만서도 개인정보 털렸다 20만 계정 유출"
+    ],
+    "top3_match_reasons": [
+      {
+        "title": [
+          "쿠팡",
+          "개인정보",
+          "유출"
+        ],
+        "keywords": [],
+        "basis": ""
+      },
+      {
+        "title": [
+          "쿠팡",
+          "개인정보",
+          "유출"
+        ],
+        "keywords": [],
+        "basis": ""
+      },
+      {
+        "title": [
+          "쿠팡",
+          "개인정보",
+          "유출"
+        ],
+        "keywords": [],
+        "basis": ""
+      }
+    ],
+    "sec": 3.0,
+    "previous": {
+      "file": "eval_meeting_20261123_v02100.json",
+      "chart": 194,
+      "chart_basis": "핵심 결과 판정을 통과한 전체 기사",
+      "events": 20,
+      "related_events": 0,
+      "kw_hit_top10": 10,
+      "flags": [],
+      "top3": [
+        "쿠팡 개인정보 유출 16만 5000건 더 있었다",
+        "쿠팡 티빙 이어 또 CU 택배 개인정보 유출",
+        "쿠팡, 대만서도 개인정보 털렸다 20만 계정 유출"
+      ]
+    }
+  },
+  {
+    "kind": "사건",
+    "ask": "서울에서 열리는 마라톤 대회",
+    "kw": [
+      "마라톤"
+    ],
+    "q": "서울에서 열리는 마라톤 대회",
+    "required_terms": [
+      "마라톤"
+    ],
+    "supporting_terms": [
+      "서울",
+      "대회"
+    ],
+    "term_source": "model",
+    "from": null,
+    "to": null,
+    "pub": null,
+    "chart": 1470,
+    "chart_basis": "핵심 결과 판정을 통과한 전체 기사",
+    "events": 20,
+    "related_events": 0,
+    "kw_hit_top10": 10,
+    "flags": [],
+    "top3": [
+      "‘서울K-마라톤대회’ 29일 개최",
+      "서울시, 마라톤 대회 오전 10시엔 끝낸다",
+      "서울경찰, 11일 마라톤 대회로 도심 교통 통제"
+    ],
+    "top3_match_reasons": [
+      {
+        "title": [
+          "마라톤",
+          "서울",
+          "대회"
+        ],
+        "keywords": [],
+        "basis": ""
+      },
+      {
+        "title": [
+          "마라톤",
+          "서울",
+          "대회"
+        ],
+        "keywords": [],
+        "basis": ""
+      },
+      {
+        "title": [
+          "마라톤",
+          "서울",
+          "대회"
+        ],
+        "keywords": [],
+        "basis": ""
+      }
+    ],
+    "sec": 2.4,
+    "previous": {
+      "file": "eval_meeting_20261123_v02100.json",
+      "chart": 137,
+      "chart_basis": "핵심 결과 판정을 통과한 전체 기사",
+      "events": 20,
+      "related_events": 0,
+      "kw_hit_top10": 10,
+      "flags": [],
+      "top3": [
+        "‘서울K-마라톤대회’ 29일 개최",
+        "서울시, 마라톤 대회 오전 10시엔 끝낸다",
+        "서울경찰, 11일 마라톤 대회로 도심 교통 통제"
+      ]
+    }
+  },
+  {
+    "kind": "사건",
+    "ask": "러브버그",
+    "kw": [
+      "러브버그"
+    ],
+    "q": "러브버그",
+    "required_terms": [
+      "러브버그"
+    ],
+    "supporting_terms": [],
+    "term_source": "legacy",
+    "from": null,
+    "to": null,
+    "pub": null,
+    "chart": 131,
+    "chart_basis": "핵심 결과 판정을 통과한 전체 기사",
+    "events": 20,
+    "related_events": 0,
+    "kw_hit_top10": 10,
+    "flags": [],
+    "top3": [
+      "“러브버그 때문에 불편? 잘 알면 덜 무서워”",
+      "[단독] 사랑스럽지 않은 러브버그 올해는 더 빨리 온다",
+      "벌써 러브버그 출몰.. 안 붙게 하려면 ‘이 색깔’ 옷 입어야"
+    ],
+    "top3_match_reasons": [
+      {
+        "title": [
+          "러브버그"
+        ],
+        "keywords": [],
+        "basis": ""
+      },
+      {
+        "title": [
+          "러브버그"
+        ],
+        "keywords": [],
+        "basis": ""
+      },
+      {
+        "title": [
+          "러브버그"
+        ],
+        "keywords": [],
+        "basis": ""
+      }
+    ],
+    "sec": 2.2,
+    "previous": {
+      "file": "eval_meeting_20261123_v02100.json",
+      "chart": 110,
+      "chart_basis": "핵심 결과 판정을 통과한 전체 기사",
+      "events": 20,
+      "related_events": 0,
+      "kw_hit_top10": 10,
+      "flags": [],
+      "top3": [
+        "“러브버그 때문에 불편? 잘 알면 덜 무서워”",
+        "[단독] 사랑스럽지 않은 러브버그 올해는 더 빨리 온다",
+        "벌써 러브버그 출몰.. 안 붙게 하려면 ‘이 색깔’ 옷 입어야"
+      ]
+    }
+  },
+  {
+    "kind": "사건",
+    "ask": "산불 피해",
+    "kw": [
+      "산불"
+    ],
+    "q": "산불 피해",
+    "required_terms": [
+      "산불",
+      "피해"
+    ],
+    "supporting_terms": [],
+    "term_source": "model",
+    "from": null,
+    "to": null,
+    "pub": null,
+    "chart": 883,
+    "chart_basis": "핵심 결과 판정을 통과한 전체 기사",
+    "events": 20,
+    "related_events": 8,
+    "kw_hit_top10": 10,
+    "flags": [],
+    "top3": [
+      "올해 산불, 지난해 대비 발생 건수 1.7배 피해 면적 12배",
+      "대형 산불 10년 새 4배 늘어 피해면적도 27배 ↑ [기획]",
+      "올해 산불 피해 면적 평년 대비 95%↓"
+    ],
+    "top3_match_reasons": [
+      {
+        "title": [
+          "산불",
+          "피해"
+        ],
+        "keywords": [],
+        "basis": ""
+      },
+      {
+        "title": [
+          "산불",
+          "피해"
+        ],
+        "keywords": [],
+        "basis": ""
+      },
+      {
+        "title": [
+          "산불",
+          "피해"
+        ],
+        "keywords": [],
+        "basis": ""
+      }
+    ],
+    "sec": 2.2,
+    "previous": {
+      "file": "eval_meeting_20261123_v02100.json",
+      "chart": 324,
+      "chart_basis": "핵심 결과 판정을 통과한 전체 기사",
+      "events": 20,
+      "related_events": 0,
+      "kw_hit_top10": 10,
+      "flags": [],
+      "top3": [
+        "올해 산불, 지난해 대비 발생 건수 1.7배 피해 면적 12배",
+        "대형 산불 10년 새 4배 늘어 피해면적도 27배 ↑ [기획]",
+        "올해 산불 피해 면적 평년 대비 95%↓"
+      ]
+    }
+  },
+  {
+    "kind": "사건",
+    "ask": "전세사기",
+    "kw": [
+      "전세사기"
+    ],
+    "q": "전세사기",
+    "required_terms": [
+      "전세사기"
+    ],
+    "supporting_terms": [],
+    "term_source": "legacy",
+    "from": null,
+    "to": null,
+    "pub": null,
+    "chart": 469,
+    "chart_basis": "핵심 결과 판정을 통과한 전체 기사",
+    "events": 20,
+    "related_events": 0,
+    "kw_hit_top10": 10,
+    "flags": [],
+    "top3": [
+      "전세사기 누적 피해자 3만6000명",
+      "“연말 연초 이사 앞둔 청년들, 전세사기 예방법 알려드립니다”",
+      "전세사기 보증금 ‘최소보장제’"
+    ],
+    "top3_match_reasons": [
+      {
+        "title": [
+          "전세사기"
+        ],
+        "keywords": [],
+        "basis": ""
+      },
+      {
+        "title": [
+          "전세사기"
+        ],
+        "keywords": [],
+        "basis": ""
+      },
+      {
+        "title": [
+          "전세사기"
+        ],
+        "keywords": [],
+        "basis": ""
+      }
+    ],
+    "sec": 2.4,
+    "previous": {
+      "file": "eval_meeting_20261123_v02100.json",
+      "chart": 425,
+      "chart_basis": "핵심 결과 판정을 통과한 전체 기사",
+      "events": 20,
+      "related_events": 0,
+      "kw_hit_top10": 10,
+      "flags": [],
+      "top3": [
+        "전세사기 누적 피해자 3만6000명",
+        "“연말 연초 이사 앞둔 청년들, 전세사기 예방법 알려드립니다”",
+        "전세사기 보증금 ‘최소보장제’"
+      ]
+    }
+  },
+  {
+    "kind": "사건",
+    "ask": "폭염 피해",
+    "kw": [
+      "폭염"
+    ],
+    "q": "폭염 피해",
+    "required_terms": [
+      "폭염",
+      "피해"
+    ],
+    "supporting_terms": [],
+    "term_source": "model",
+    "from": null,
+    "to": null,
+    "pub": null,
+    "chart": 745,
+    "chart_basis": "핵심 결과 판정을 통과한 전체 기사",
+    "events": 20,
+    "related_events": 20,
+    "kw_hit_top10": 10,
+    "flags": [],
+    "top3": [
+      "폭염 피해 ‘복합재난’으로 확산",
+      "폭염의 진짜 피해자[오후여담]",
+      "인명 피해 잇따르는 中의 폭염 기승"
+    ],
+    "top3_match_reasons": [
+      {
+        "title": [
+          "폭염",
+          "피해"
+        ],
+        "keywords": [],
+        "basis": ""
+      },
+      {
+        "title": [
+          "폭염",
+          "피해"
+        ],
+        "keywords": [],
+        "basis": ""
+      },
+      {
+        "title": [
+          "폭염",
+          "피해"
+        ],
+        "keywords": [],
+        "basis": ""
+      }
+    ],
+    "sec": 2.3,
+    "previous": {
+      "file": "eval_meeting_20261123_v02100.json",
+      "chart": 249,
+      "chart_basis": "핵심 결과 판정을 통과한 전체 기사",
+      "events": 20,
+      "related_events": 0,
+      "kw_hit_top10": 10,
+      "flags": [],
+      "top3": [
+        "폭염 피해 ‘복합재난’으로 확산",
+        "폭염의 진짜 피해자[오후여담]",
+        "인명 피해 잇따르는 中의 폭염 기승"
+      ]
+    }
+  },
+  {
+    "kind": "계절·의도",
+    "ask": "솔로를 위한 크리스마스",
+    "kw": [
+      "솔로",
+      "크리스마스"
+    ],
+    "q": "솔로를 위한 크리스마스",
+    "required_terms": [
+      "크리스마스"
+    ],
+    "supporting_terms": [
+      "솔로"
+    ],
+    "term_source": "model",
+    "from": null,
+    "to": null,
+    "pub": null,
+    "chart": 494,
+    "chart_basis": "핵심 결과 판정을 통과한 전체 기사",
+    "events": 20,
+    "related_events": 10,
+    "kw_hit_top10": 0,
+    "flags": [],
+    "top3": [
+      "새달 앞으로 다가온 크리스마스",
+      "“울어도, 웃어도 괜찮아요”  11월에 찾아온 크리스마스",
+      "크리스마스 또 돌아왔네, 설레는 마음과 함께"
+    ],
+    "top3_match_reasons": [
+      {
+        "title": [
+          "크리스마스"
+        ],
+        "keywords": [],
+        "basis": ""
+      },
+      {
+        "title": [
+          "크리스마스"
+        ],
+        "keywords": [],
+        "basis": ""
+      },
+      {
+        "title": [
+          "크리스마스"
+        ],
+        "keywords": [],
+        "basis": ""
+      }
+    ],
+    "sec": 2.4,
+    "previous": {
+      "file": "eval_meeting_20261123_v02100.json",
+      "chart": 22,
+      "chart_basis": "related",
+      "events": 0,
+      "related_events": 20,
+      "kw_hit_top10": 0,
+      "flags": [
+        "연관만있음"
+      ],
+      "top3": [
+        "새달 앞으로 다가온 크리스마스",
+        "“울어도, 웃어도 괜찮아요”  11월에 찾아온 크리스마스",
+        "설 연휴는 SOOP에서 "
+      ]
+    }
+  },
+  {
+    "kind": "계절·의도",
+    "ask": "12월 일본 여행",
+    "kw": [
+      "일본"
+    ],
+    "q": "12월 일본 여행",
+    "required_terms": [
+      "일본",
+      "여행"
+    ],
+    "supporting_terms": [
+      "12월"
+    ],
+    "term_source": "model",
+    "from": null,
+    "to": null,
+    "pub": null,
+    "chart": 818,
+    "chart_basis": "핵심 결과 판정을 통과한 전체 기사",
+    "events": 20,
+    "related_events": 5,
+    "kw_hit_top10": 7,
+    "flags": [],
+    "top3": [
+      "중국 ‘일본 여행 자제령’에  작년 12월 방일 중국인 45% 감소",
+      "셀레트립, ‘빅뱅 일본투어’ 공연 여행 패키지 판매",
+      "연말 연차 나흘이면 연초까지 12월 해외여행 예약 2배 넘게 증가"
+    ],
+    "top3_match_reasons": [
+      {
+        "title": [
+          "일본",
+          "여행",
+          "12월"
+        ],
+        "keywords": [],
+        "basis": ""
+      },
+      {
+        "title": [
+          "일본",
+          "여행"
+        ],
+        "keywords": [
+          "12월"
+        ],
+        "basis": ""
+      },
+      {
+        "title": [
+          "여행",
+          "12월"
+        ],
+        "keywords": [
+          "일본"
+        ],
+        "basis": ""
+      }
+    ],
+    "sec": 5.1,
+    "previous": {
+      "file": "eval_meeting_20261123_v02100.json",
+      "chart": 2,
+      "chart_basis": "핵심 결과 판정을 통과한 전체 기사",
+      "events": 20,
+      "related_events": 0,
+      "kw_hit_top10": 1,
+      "flags": [],
+      "top3": [
+        "중국 ‘일본 여행 자제령’에  작년 12월 방일 중국인 45% 감소",
+        "연말 연차 나흘이면 연초까지 12월 해외여행 예약 2배 넘게 증가",
+        "대한항공, 인천~히로시마 노선 신규 취항 오는 12월 23일부터 매일 운항"
+      ]
+    }
+  },
+  {
+    "kind": "계절·의도",
+    "ask": "올해 최적의 겨울 여행 코스",
+    "kw": [
+      "겨울",
+      "여행"
+    ],
+    "q": "최적의 겨울 여행 코스",
+    "required_terms": [
+      "겨울",
+      "여행"
+    ],
+    "supporting_terms": [
+      "코스"
+    ],
+    "term_source": "model",
+    "from": "2026-01-01",
+    "to": "2026-11-23",
+    "pub": null,
+    "chart": 166,
+    "chart_basis": "핵심 결과 판정을 통과한 전체 기사",
+    "events": 20,
+    "related_events": 20,
+    "kw_hit_top10": 6,
+    "flags": [],
+    "top3": [
+      "설 연휴, 전북서 즐기는 겨울 여행 도 관광지 14선 추천",
+      "1300도 숯 찜질 겨울파도 드라이브 추울수록 완벽한 여행",
+      "올 겨울 사이판서 가성비 여행 즐겨봐? 이랜드 코럴 오션 리조트 추천 ‘패키지’"
+    ],
+    "top3_match_reasons": [
+      {
+        "title": [
+          "겨울",
+          "여행"
+        ],
+        "keywords": [
+          "코스"
+        ],
+        "basis": ""
+      },
+      {
+        "title": [
+          "겨울",
+          "여행"
+        ],
+        "keywords": [
+          "코스"
+        ],
+        "basis": ""
+      },
+      {
+        "title": [
+          "겨울",
+          "여행"
+        ],
+        "keywords": [
+          "코스"
+        ],
+        "basis": ""
+      }
+    ],
+    "sec": 10.4,
+    "previous": {
+      "file": "eval_meeting_20261123_v02100.json",
+      "chart": 10,
+      "chart_basis": "핵심 결과 판정을 통과한 전체 기사",
+      "events": 20,
+      "related_events": 0,
+      "kw_hit_top10": 6,
+      "flags": [],
+      "top3": [
+        "설 연휴, 전북서 즐기는 겨울 여행 도 관광지 14선 추천",
+        "\"겨울이어서 더 좋다\" 남원시, 겨울 여행지로 '주목'",
+        "올 겨울 사이판서 가성비 여행 즐겨봐? 이랜드 코럴 오션 리조트 추천 ‘패키지’"
+      ]
+    }
+  },
+  {
+    "kind": "계절·의도",
+    "ask": "여름 휴가 추천",
+    "kw": [
+      "여름"
+    ],
+    "q": "여름 휴가 추천",
+    "required_terms": [
+      "여름",
+      "휴가"
+    ],
+    "supporting_terms": [],
+    "term_source": "model",
+    "from": null,
+    "to": null,
+    "pub": null,
+    "chart": 340,
+    "chart_basis": "핵심 결과 판정을 통과한 전체 기사",
+    "events": 20,
+    "related_events": 20,
+    "kw_hit_top10": 10,
+    "flags": [],
+    "top3": [
+      "불안하고 우울했던 여름휴가 중 위로를 얻다",
+      "올여름 휴가 트렌드는 ‘짧고 가깝게, 그리고 푹 쉬기’",
+      "여름 휴가 가을 여행철 맞아 전국 도시재생사업지 다녀가세요~"
+    ],
+    "top3_match_reasons": [
+      {
+        "title": [
+          "여름",
+          "휴가"
+        ],
+        "keywords": [],
+        "basis": ""
+      },
+      {
+        "title": [
+          "여름",
+          "휴가"
+        ],
+        "keywords": [],
+        "basis": ""
+      },
+      {
+        "title": [
+          "여름",
+          "휴가"
+        ],
+        "keywords": [],
+        "basis": ""
+      }
+    ],
+    "sec": 4.1,
+    "previous": {
+      "file": "eval_meeting_20261123_v02100.json",
+      "chart": 218,
+      "chart_basis": "핵심 결과 판정을 통과한 전체 기사",
+      "events": 20,
+      "related_events": 0,
+      "kw_hit_top10": 10,
+      "flags": [],
+      "top3": [
+        "불안하고 우울했던 여름휴가 중 위로를 얻다",
+        "올여름 휴가 트렌드는 ‘짧고 가깝게, 그리고 푹 쉬기’",
+        "여름 휴가 가을 여행철 맞아 전국 도시재생사업지 다녀가세요~"
+      ]
+    }
+  },
+  {
+    "kind": "계절·의도",
+    "ask": "수능 한파",
+    "kw": [
+      "수능"
+    ],
+    "q": "수능 한파",
+    "required_terms": [
+      "한파",
+      "수능"
+    ],
+    "supporting_terms": [],
+    "term_source": "model",
+    "from": null,
+    "to": null,
+    "pub": null,
+    "chart": 39,
+    "chart_basis": "핵심 결과 판정을 통과한 전체 기사",
+    "events": 20,
+    "related_events": 20,
+    "kw_hit_top10": 10,
+    "flags": [],
+    "top3": [
+      "수능 한파보다 매서운 ‘AI 단속 한파’",
+      "이번 주말 전국에 비 19일 수능 한파 가능성",
+      "19일 수능 한파 “-4도에 도로 살얼음, 시험장으로 일찍 출발을”"
+    ],
+    "top3_match_reasons": [
+      {
+        "title": [
+          "한파",
+          "수능"
+        ],
+        "keywords": [],
+        "basis": ""
+      },
+      {
+        "title": [
+          "한파",
+          "수능"
+        ],
+        "keywords": [],
+        "basis": ""
+      },
+      {
+        "title": [
+          "한파",
+          "수능"
+        ],
+        "keywords": [],
+        "basis": ""
+      }
+    ],
+    "sec": 2.6,
+    "previous": {
+      "file": "eval_meeting_20261123_v02100.json",
+      "chart": 34,
+      "chart_basis": "핵심 결과 판정을 통과한 전체 기사",
+      "events": 20,
+      "related_events": 0,
+      "kw_hit_top10": 10,
+      "flags": [],
+      "top3": [
+        "수능 한파보다 매서운 ‘AI 단속 한파’",
+        "이번 주말 전국에 비 19일 수능 한파 가능성",
+        "19일 수능 한파 “-4도에 도로 살얼음, 시험장으로 일찍 출발을”"
+      ]
+    }
+  },
+  {
+    "kind": "언론사",
+    "ask": "스포츠동아 디어워즈",
+    "kw": [
+      "디어워즈"
+    ],
+    "q": "디어워즈",
+    "required_terms": [
+      "디어워즈"
+    ],
+    "supporting_terms": [],
+    "term_source": "legacy",
+    "from": null,
+    "to": null,
+    "pub": null,
+    "chart": 8,
+    "chart_basis": "핵심 결과 판정을 통과한 전체 기사",
+    "events": 7,
+    "related_events": 0,
+    "kw_hit_top10": 6,
+    "flags": [],
+    "top3": [
+      "유럽서 첫 K팝 대형 시상식 ‘디 어워즈’ 열린다",
+      "K팝 시상식 ‘디 어워즈’, 내년 1월 佛파리 개최",
+      "안효섭 안은진 최진혁, ‘제2회 디 어워즈’ 시상자 참석"
+    ],
+    "top3_match_reasons": [
+      {
+        "title": [
+          "디어워즈"
+        ],
+        "keywords": [],
+        "basis": ""
+      },
+      {
+        "title": [
+          "디어워즈"
+        ],
+        "keywords": [],
+        "basis": ""
+      },
+      {
+        "title": [
+          "디어워즈"
+        ],
+        "keywords": [],
+        "basis": ""
+      }
+    ],
+    "sec": 2.0,
+    "previous": {
+      "file": "eval_meeting_20261123_v02100.json",
+      "chart": 7,
+      "chart_basis": "핵심 결과 판정을 통과한 전체 기사",
+      "events": 6,
+      "related_events": 0,
+      "kw_hit_top10": 6,
+      "flags": [],
+      "top3": [
+        "유럽서 첫 K팝 대형 시상식 ‘디 어워즈’ 열린다",
+        "K팝 시상식 ‘디 어워즈’, 내년 1월 佛파리 개최",
+        "안효섭 안은진 최진혁, ‘제2회 디 어워즈’ 시상자 참석"
+      ]
+    }
+  },
+  {
+    "kind": "언론사",
+    "ask": "동아일보 마라톤 대회",
+    "kw": [
+      "마라톤"
+    ],
+    "q": "마라톤 대회",
+    "required_terms": [
+      "마라톤"
+    ],
+    "supporting_terms": [
+      "대회"
+    ],
+    "term_source": "model",
+    "from": null,
+    "to": null,
+    "pub": null,
+    "chart": 1470,
+    "chart_basis": "핵심 결과 판정을 통과한 전체 기사",
+    "events": 20,
+    "related_events": 0,
+    "kw_hit_top10": 10,
+    "flags": [],
+    "top3": [
+      "[수퍼 스트롱] 환갑 넘어 시작한 마라톤, 500개 대회 뛰었다",
+      "마라톤 뛰는 날, 골목상권도 뜬다",
+      "참가비도 같이 뛴 ‘5 18 마라톤’"
+    ],
+    "top3_match_reasons": [
+      {
+        "title": [
+          "마라톤",
+          "대회"
+        ],
+        "keywords": [],
+        "basis": ""
+      },
+      {
+        "title": [
+          "마라톤"
+        ],
+        "keywords": [
+          "대회"
+        ],
+        "basis": ""
+      },
+      {
+        "title": [
+          "마라톤"
+        ],
+        "keywords": [
+          "대회"
+        ],
+        "basis": ""
+      }
+    ],
+    "sec": 3.1,
+    "previous": {
+      "file": "eval_meeting_20261123_v02100.json",
+      "chart": 798,
+      "chart_basis": "핵심 결과 판정을 통과한 전체 기사",
+      "events": 20,
+      "related_events": 0,
+      "kw_hit_top10": 10,
+      "flags": [],
+      "top3": [
+        "[수퍼 스트롱] 환갑 넘어 시작한 마라톤, 500개 대회 뛰었다",
+        "올해 마라톤 대회만 '600개'…안전 관리 잘 되나 봤더니",
+        "쌀죽 소면 빵 양갱 마라톤 대회 맞죠?"
+      ]
+    }
+  },
+  {
+    "kind": "언론사",
+    "ask": "조선일보 대통령 기사",
+    "kw": [],
+    "q": "대통령 기사",
+    "required_terms": [
+      "대통령"
+    ],
+    "supporting_terms": [],
+    "term_source": "legacy",
+    "from": null,
+    "to": null,
+    "pub": null,
+    "chart": 95452,
+    "chart_basis": "핵심 결과 판정을 통과한 전체 기사",
+    "events": 20,
+    "related_events": 13,
+    "kw_hit_top10": null,
+    "flags": [],
+    "top3": [
+      "[장혜수의 뉴스터치] 대통령에게 언론이란 ",
+      "[메아리] 대통령의 말 한마디",
+      "[정정]‘대통령 신용한 신임 표명’ 기사 관련 설명"
+    ],
+    "top3_match_reasons": [
+      {
+        "title": [
+          "대통령"
+        ],
+        "keywords": [],
+        "basis": ""
+      },
+      {
+        "title": [
+          "대통령"
+        ],
+        "keywords": [],
+        "basis": ""
+      },
+      {
+        "title": [
+          "대통령"
+        ],
+        "keywords": [],
+        "basis": ""
+      }
+    ],
+    "sec": 11.6,
+    "previous": {
+      "file": "eval_meeting_20261123_v02100.json",
+      "chart": 200,
+      "chart_basis": "related",
+      "events": 0,
+      "related_events": 20,
+      "kw_hit_top10": null,
+      "flags": [
+        "연관만있음"
+      ],
+      "top3": [
+        "[장혜수의 뉴스터치] 대통령에게 언론이란 ",
+        "[메아리] 대통령의 말 한마디",
+        "[정정]‘대통령 신용한 신임 표명’ 기사 관련 설명"
+      ]
+    }
+  },
+  {
+    "kind": "언론사",
+    "ask": "문화일보 공연",
+    "kw": [
+      "공연"
+    ],
+    "q": "공연",
+    "required_terms": [
+      "공연"
+    ],
+    "supporting_terms": [],
+    "term_source": "legacy",
+    "from": null,
+    "to": null,
+    "pub": null,
+    "chart": 14439,
+    "chart_basis": "핵심 결과 판정을 통과한 전체 기사",
+    "events": 20,
+    "related_events": 3,
+    "kw_hit_top10": 10,
+    "flags": [],
+    "top3": [
+      "공연만 보셨나요 무대 뒤의 이야기도 들어보세요",
+      "연극부터 전통예술까지 세상 모든 공연축제들이 뭉쳤다",
+      "어린이 청소년이 만들어가는 공연"
+    ],
+    "top3_match_reasons": [
+      {
+        "title": [
+          "공연"
+        ],
+        "keywords": [],
+        "basis": ""
+      },
+      {
+        "title": [
+          "공연"
+        ],
+        "keywords": [],
+        "basis": ""
+      },
+      {
+        "title": [
+          "공연"
+        ],
+        "keywords": [],
+        "basis": ""
+      }
+    ],
+    "sec": 4.1,
+    "previous": {
+      "file": "eval_meeting_20261123_v02100.json",
+      "chart": 3227,
+      "chart_basis": "핵심 결과 판정을 통과한 전체 기사",
+      "events": 20,
+      "related_events": 0,
+      "kw_hit_top10": 10,
+      "flags": [],
+      "top3": [
+        "공연만 보셨나요 무대 뒤의 이야기도 들어보세요",
+        "연극부터 전통예술까지 세상 모든 공연축제들이 뭉쳤다",
+        "어린이 청소년이 만들어가는 공연"
+      ]
+    }
+  },
+  {
+    "kind": "언론사",
+    "ask": "한겨레 환경",
+    "kw": [],
+    "q": "환경",
+    "required_terms": [
+      "환경"
+    ],
+    "supporting_terms": [],
+    "term_source": "legacy",
+    "from": null,
+    "to": null,
+    "pub": null,
+    "chart": 22605,
+    "chart_basis": "핵심 결과 판정을 통과한 전체 기사",
+    "events": 20,
+    "related_events": 8,
+    "kw_hit_top10": null,
+    "flags": [],
+    "top3": [
+      "[알기 쉬운 환경과학 이야기] 환경이 생물을 만들까, 생물이 환경을 만들까",
+      "[클리프] 기후에너지 어라, 환경은 어디갔나요?",
+      "환경을 지키는 일, 오늘의 작은 실천에서 시작된다"
+    ],
+    "top3_match_reasons": [
+      {
+        "title": [
+          "환경"
+        ],
+        "keywords": [],
+        "basis": ""
+      },
+      {
+        "title": [
+          "환경"
+        ],
+        "keywords": [],
+        "basis": ""
+      },
+      {
+        "title": [
+          "환경"
+        ],
+        "keywords": [],
+        "basis": ""
+      }
+    ],
+    "sec": 4.0,
+    "previous": {
+      "file": "eval_meeting_20261123_v02100.json",
+      "chart": 4435,
+      "chart_basis": "핵심 결과 판정을 통과한 전체 기사",
+      "events": 20,
+      "related_events": 0,
+      "kw_hit_top10": null,
+      "flags": [],
+      "top3": [
+        "[알기 쉬운 환경과학 이야기] 환경이 생물을 만들까, 생물이 환경을 만들까",
+        "[클리프] 기후에너지 어라, 환경은 어디갔나요?",
+        "환경을 지키는 일, 오늘의 작은 실천에서 시작된다"
+      ]
+    }
+  },
+  {
+    "kind": "날짜 표현",
+    "ask": "지난주 김도영",
+    "kw": [
+      "김도영"
+    ],
+    "q": "",
+    "required_terms": [
+      "김도영"
+    ],
+    "supporting_terms": [],
+    "term_source": "legacy",
+    "from": "2026-11-16",
+    "to": "2026-11-22",
+    "pub": null,
+    "chart": 3,
+    "chart_basis": "핵심 결과 판정을 통과한 전체 기사",
+    "events": 3,
+    "related_events": 3,
+    "kw_hit_top10": 3,
+    "flags": [],
+    "top3": [
+      "\"김도영 버스?\"…광주 05번 버스 '눈길'",
+      "[핌 포커스] 'APBC 부진' 김도영·안현민·김주원, 올림픽 이끌 재목...내...",
+      "‘슈퍼스타’ 김도영이 감탄한 ‘日 야구 수준’, “좋은 선수들 많더라..."
+    ],
+    "top3_match_reasons": [
+      {
+        "title": [
+          "김도영"
+        ],
+        "keywords": [],
+        "basis": ""
+      },
+      {
+        "title": [
+          "김도영"
+        ],
+        "keywords": [],
+        "basis": ""
+      },
+      {
+        "title": [
+          "김도영"
+        ],
+        "keywords": [],
+        "basis": ""
+      }
+    ],
+    "sec": 3.0,
+    "previous": {
+      "file": "eval_meeting_20261123_v02100.json",
+      "chart": 3,
+      "chart_basis": "핵심 결과 판정을 통과한 전체 기사",
+      "events": 6,
+      "related_events": 0,
+      "kw_hit_top10": 3,
+      "flags": [],
+      "top3": [
+        "\"김도영 버스?\"…광주 05번 버스 '눈길'",
+        "[핌 포커스] 'APBC 부진' 김도영·안현민·김주원, 올림픽 이끌 재목...내...",
+        "‘슈퍼스타’ 김도영이 감탄한 ‘日 야구 수준’, “좋은 선수들 많더라..."
+      ]
+    }
+  },
+  {
+    "kind": "날짜 표현",
+    "ask": "어제 뉴스",
+    "kw": [],
+    "q": "뉴스",
+    "required_terms": [],
+    "supporting_terms": [],
+    "term_source": "legacy",
+    "from": "2026-11-22",
+    "to": "2026-11-22",
+    "pub": null,
+    "chart": 7716,
+    "chart_basis": "지정 기간·분류에 해당하는 전체 기사",
+    "events": 20,
+    "related_events": 0,
+    "kw_hit_top10": null,
+    "flags": [],
+    "top3": [
+      "최태원, 韓日 기업·대학에 AI 인재 공동 육성 제안…인턴십·일자리 연...",
+      "민주, '조희대 탄핵추진' 당론 채택·추진 본격화",
+      "하나금융그룹, 취약계층 어르신 1000명 주거 안전·이동 편의 지원"
+    ],
+    "top3_match_reasons": [
+      {},
+      {},
+      {}
+    ],
+    "sec": 0.7,
+    "previous": {
+      "file": "eval_meeting_20261123_v02100.json",
+      "chart": 7716,
+      "chart_basis": "지정 기간·분류에 해당하는 전체 기사",
+      "events": 20,
+      "related_events": 0,
+      "kw_hit_top10": null,
+      "flags": [],
+      "top3": [
+        "최태원, 韓日 기업·대학에 AI 인재 공동 육성 제안…인턴십·일자리 연...",
+        "민주, '조희대 탄핵추진' 당론 채택·추진 본격화",
+        "하나금융그룹, 취약계층 어르신 1000명 주거 안전·이동 편의 지원"
+      ]
+    }
+  },
+  {
+    "kind": "날짜 표현",
+    "ask": "2026년 3월 1일부터 3월 15일까지 김도영",
+    "kw": [
+      "김도영"
+    ],
+    "q": "",
+    "required_terms": [
+      "김도영"
+    ],
+    "supporting_terms": [],
+    "term_source": "legacy",
+    "from": "2026-03-01",
+    "to": "2026-03-15",
+    "pub": null,
+    "chart": 32,
+    "chart_basis": "핵심 결과 판정을 통과한 전체 기사",
+    "events": 20,
+    "related_events": 20,
+    "kw_hit_top10": 10,
+    "flags": [],
+    "top3": [
+      "“김도영 섭섭하겠네” 김길리, 현재 ‘푹’ 빠진 건 “코르티스 성현 많이 좋아해”",
+      "도미니카와 WBC 8강 앞둔 이정후와 김도영... “주눅들지 않겠다”",
+      "“이젠 내가 김도영 응원할 것” 김길리, 참아왔던 팬심 대놓고 ‘폭발’"
+    ],
+    "top3_match_reasons": [
+      {
+        "title": [
+          "김도영"
+        ],
+        "keywords": [],
+        "basis": ""
+      },
+      {
+        "title": [
+          "김도영"
+        ],
+        "keywords": [],
+        "basis": ""
+      },
+      {
+        "title": [
+          "김도영"
+        ],
+        "keywords": [],
+        "basis": ""
+      }
+    ],
+    "sec": 3.5,
+    "previous": {
+      "file": "eval_meeting_20261123_v02100.json",
+      "chart": 32,
+      "chart_basis": "핵심 결과 판정을 통과한 전체 기사",
+      "events": 20,
+      "related_events": 0,
+      "kw_hit_top10": 10,
+      "flags": [],
+      "top3": [
+        "“김도영 섭섭하겠네” 김길리, 현재 ‘푹’ 빠진 건 “코르티스 성현 많이 좋아해”",
+        "도미니카와 WBC 8강 앞둔 이정후와 김도영... “주눅들지 않겠다”",
+        "“이젠 내가 김도영 응원할 것” 김길리, 참아왔던 팬심 대놓고 ‘폭발’"
+      ]
+    }
+  },
+  {
+    "kind": "날짜 표현",
+    "ask": "지난달 삼성전자 주가",
+    "kw": [
+      "삼성전자"
+    ],
+    "q": "삼성전자 주가",
+    "required_terms": [
+      "삼성전자",
+      "주가"
+    ],
+    "supporting_terms": [],
+    "term_source": "legacy",
+    "from": "2026-10-01",
+    "to": "2026-10-31",
+    "pub": null,
+    "chart": 364,
+    "chart_basis": "핵심 결과 판정을 통과한 전체 기사",
+    "events": 20,
+    "related_events": 20,
+    "kw_hit_top10": 10,
+    "flags": [],
+    "top3": [
+      "이번주 코스피, 삼성전자 실적에 달렸다",
+      "삼성전자, 100조 벌고도 주가는 4.7% ↓ 증권가 \"최고 63만원\"",
+      "삼성전자 3분기 실적 D-1 주가 반등 기회 될까"
+    ],
+    "top3_match_reasons": [
+      {
+        "title": [
+          "삼성전자",
+          "주가"
+        ],
+        "keywords": [],
+        "basis": ""
+      },
+      {
+        "title": [
+          "삼성전자",
+          "주가"
+        ],
+        "keywords": [],
+        "basis": ""
+      },
+      {
+        "title": [
+          "삼성전자",
+          "주가"
+        ],
+        "keywords": [],
+        "basis": ""
+      }
+    ],
+    "sec": 3.6,
+    "previous": {
+      "file": "eval_meeting_20261123_v02100.json",
+      "chart": 113,
+      "chart_basis": "핵심 결과 판정을 통과한 전체 기사",
+      "events": 20,
+      "related_events": 0,
+      "kw_hit_top10": 10,
+      "flags": [],
+      "top3": [
+        "삼성전자, 100조 벌고도 주가는 4.7% ↓ 증권가 \"최고 63만원\"",
+        "삼성전자 3분기 실적 D-1 주가 반등 기회 될까",
+        "주주환원 기대 너무 컸나  삼성전자 주가 4% 하락, ‘6000피’ 반납"
+      ]
+    }
+  },
+  {
+    "kind": "날짜 표현",
+    "ask": "작년 크리스마스",
+    "kw": [
+      "크리스마스"
+    ],
+    "q": "크리스마스",
+    "required_terms": [
+      "크리스마스"
+    ],
+    "supporting_terms": [],
+    "term_source": "legacy",
+    "from": "2025-01-01",
+    "to": "2025-12-31",
+    "pub": null,
+    "chart": 0,
+    "chart_basis": "지정 발행일·언론사 조건",
+    "events": 0,
+    "related_events": 0,
+    "kw_hit_top10": 0,
+    "flags": [
+      "결과0",
+      "발행범위안내"
+    ],
+    "top3": [],
+    "top3_match_reasons": [],
+    "sec": 1.8,
+    "previous": {
+      "file": "eval_meeting_20261123_v02100.json",
+      "chart": 0,
+      "chart_basis": "지정 발행일·언론사 조건",
+      "events": 0,
+      "related_events": 0,
+      "kw_hit_top10": 0,
+      "flags": [
+        "결과0",
+        "발행범위안내"
+      ],
+      "top3": []
+    }
+  }
+]
